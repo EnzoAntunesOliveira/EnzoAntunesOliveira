@@ -1,10 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlhYWdjcXBzNnRsdW50OGtmMDkwcW54OTBucmJramo5eThzdjBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
-
-###
+<h2 align="left">Me chamo Enzo Oliveira Moro, no Brasil, e sou um apaixonado por tecnologia</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -42,7 +36,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://www.linkedin.com/in/enzo-antunes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
