@@ -1,8 +1,8 @@
 # Enzo Antunes Oliveira
 
-Olá, bem-vindo ao meu perfil!
+Olá, seja bem-vindo ao meu perfil!
 <br>
-Tenho 20 anos, moro em São Paulo. Sempre fui apaixonado por tecnologia, e quando descobri a programação fiquei apaixonado e comecei a me dedicar, estou sempre a procura de novos desafios e oportunidades.
+Tenho 20 anos e moro em São Paulo. Desde cedo, sou apaixonado por tecnologia e, ao descobrir a programação, encontrei meu verdadeiro interesse. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e contribuir de maneira significativa.
 
 # Conecte-se comigo 
 
